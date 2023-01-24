@@ -1,5 +1,5 @@
 # Inpout
-
+you can look demo https://media.tenor.com/0pFJjj9_6RwAAAAC/zz-top-legs.gif
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
 
 ## Development server
