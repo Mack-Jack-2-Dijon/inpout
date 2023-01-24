@@ -2,7 +2,7 @@ import { Component } from '@angular/core';
 import { Developer } from '../model/Developer';
 
 @Component({
-  selector: 'developer',
+  selector: 'app-developer',
   templateUrl: './developer.component.html',
   styleUrls: ['./developer.component.css'],
 })

@@ -4,8 +4,8 @@ import { FormsModule } from '@angular/forms';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { ModelsComponent } from './models/models.component';
-import { DeveloperComponent } from './developer/developer.component';
 import { SkillComponent } from './skill/skill.component';
+import { DeveloperComponent } from './developer/developer.component';
 
 @NgModule({
   declarations: [
